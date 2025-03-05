@@ -13,7 +13,6 @@ EthioMart is building a centralized e-commerce platform that consolidates produc
 ## Project Structure
 ```
 ├── data/               # Raw and preprocessed datasets
-├── models/             # Trained model checkpoints
 ├── notebooks/          # Jupyter notebooks for analysis and training
 ├── scripts/            # Python scripts for data ingestion and model training
 ├── results/            # Evaluation results and reports
@@ -25,14 +24,13 @@ EthioMart is building a centralized e-commerce platform that consolidates produc
 ### Prerequisites
 - Python 3.8+
 - Jupyter Notebook / Google Colab
-- Hugging Face Transformers
 - Telegram API access
 
 ### Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/Amharic-NER-EthioMart.git
-   cd Amharic-NER-EthioMart
+   git clone https://github.com/Yitayalk/amharic-ecomm-entity-extraction.git
+   cd amharic-ecomm-entity-extraction
    ```
 2. Install dependencies:
    ```bash
