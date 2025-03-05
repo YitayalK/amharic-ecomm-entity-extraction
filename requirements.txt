@@ -1,0 +1,12 @@
+transformers
+datasets
+tokenizers
+seqeval
+telegram-scraper
+shap
+lime
+pandas
+scikit-learn
+torch  # Or tensorflow, depending on your LLM framework
+requests
+python-telegram-bot #if you are using the bot api instead of scraper.
